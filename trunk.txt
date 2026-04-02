@@ -1,1 +1,2 @@
 "Trunk commit 1" 
+"Trunk commit 2" 
